@@ -1,2 +1,1 @@
-# python-smart-meter
-Your smart meter made in python with pygame
+python-smart-meter-server
